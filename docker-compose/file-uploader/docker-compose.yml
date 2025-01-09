@@ -1,0 +1,10 @@
+services:
+  uploader-app:
+    container_name: uploader-app-backend
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - uploader-app-uploads:/uploads
+volumes:
+  uploader-app-uploads:
