@@ -1,4 +1,3 @@
-version: "3.4"
 services:
   todo-app:
     container_name: client-todo-app

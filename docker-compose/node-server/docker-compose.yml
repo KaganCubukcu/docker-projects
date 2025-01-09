@@ -1,4 +1,3 @@
-version: "3.4"
 services:
   node-server:
     container_name: node-server
