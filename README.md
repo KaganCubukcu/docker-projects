@@ -21,6 +21,7 @@ In addition, this repository contains a `docker-compose` file. This file combine
 - **node-server**: A Node.js-based server.
 - **todo-app**: A to-do application, containing Node.js and MongoDB.
 - **file-uploader**: A Node.js application designed to handle image uploads.
+- **wordpress**: WordPress starter configs.
 
 For those who want to work these files, separate `README.md` files will be added for each file. The `docker-compose` file will be expanded, and Kubernetes integration is planned for future updates.
 
@@ -29,4 +30,5 @@ For those who want to work these files, separate `README.md` files will be added
 - [Docker Nedir Nasıl Kullanılır? | Part #1 | Image Nedir? Container Nedir? Docker Komutları](https://www.youtube.com/watch?v=4XVfmGE1F_w)
 - [Docker Network Türleri | Dockerfile ile Image Nasıl Üretilir | Part #2](https://www.youtube.com/watch?v=ZeYIp1PrWXc)
 - [Docker Compose ile Servis Yönetimi Part #3 | Twitter, Asana, Wordpress, MongoDB NodeJS Uygulamaları](https://www.youtube.com/watch?v=cu3_ldKZ0os)
+- [Linux'a Docker Kurulumu | Production | Nginx | Reverse Proxy ile 2 Domain 1 Host Yönetimi | Part #4](https://www.youtube.com/watch?v=JU5vvLNipXY)
 - [Docker Hub](https://hub.docker.com/)
